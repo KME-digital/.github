@@ -1,4 +1,4 @@
-# KME.digital - Web Development Excellence
+# KME.digital
 
 **KME.digital** is a leading digital marketing agency based in Alexandria, Virginia, specializing in comprehensive web development solutions that drive business growth. With a proven track record spanning back to 2006, they maintain an impressive 97% client retention rate, demonstrating their commitment to long-term client relationships and exceptional service delivery.
 
